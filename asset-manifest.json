@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/team/static/css/main.75192f50.css",
+    "main.js": "/team/static/js/main.fafde1a0.js",
+    "static/js/453.6d8325f9.chunk.js": "/team/static/js/453.6d8325f9.chunk.js",
+    "static/media/ceo.jpg": "/team/static/media/ceo.3a0e56071610742389b7.jpg",
+    "static/media/24.jpg": "/team/static/media/24.c004b1da7a01f38b11fc.jpg",
+    "static/media/b8-the-team-marino-banon.jpg": "/team/static/media/b8-the-team-marino-banon.e859e45b4f18b66784b4.jpg",
+    "static/media/23.jpg": "/team/static/media/23.93317ce8239503380245.jpg",
+    "static/media/logo1.png": "/team/static/media/logo1.10c39e40fef6470cc122.png",
+    "static/media/footer.svg": "/team/static/media/footer.f9bd9b1e2a44bc1dbc1ac83fda679c1e.svg",
+    "index.html": "/team/index.html",
+    "main.75192f50.css.map": "/team/static/css/main.75192f50.css.map",
+    "main.fafde1a0.js.map": "/team/static/js/main.fafde1a0.js.map",
+    "453.6d8325f9.chunk.js.map": "/team/static/js/453.6d8325f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75192f50.css",
+    "static/js/main.fafde1a0.js"
+  ]
+}
