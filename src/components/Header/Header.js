@@ -42,7 +42,7 @@ function OffcanvasExample() {
                   className="justify-content-end flex-grow-1 pe-3"
                   id="header-link"
                 >
-                  <Nav.Link href="/">home</Nav.Link>
+                  <Nav.Link href="https://royald.onrender.com/">home</Nav.Link>
                   <Nav.Link href="/we-are">we are</Nav.Link>
                   <Nav.Link href="/Team">the team</Nav.Link>
                   <Nav.Link href="/Contact">contact</Nav.Link>

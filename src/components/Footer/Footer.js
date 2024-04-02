@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer-info">
         <div className="container">
           <div className="info">
-            <a href="/">
+            <a href="https://royald.onrender.com/">
               <img src={footer} alt=""></img>
             </a>
           </div>
@@ -15,9 +15,7 @@ const Footer = () => {
           <div>
             <ul className="socail">
               <li>
-                <a href="https://hamzaabduljalil.github.io/Hamza.por.github.io/">
-                  Fb
-                </a>
+                <a href="">Fb</a>
               </li>
               <li>
                 <a href="">Lg</a>
