@@ -1,5 +1,6 @@
 import "./Footer.css";
 import footer from "../imgs/footer.svg";
+import { Link } from "react-router-dom";
 const Footer = () => {
   const date = new Date().getFullYear();
   return (
@@ -7,15 +8,17 @@ const Footer = () => {
       <div className="footer-info">
         <div className="container">
           <div className="info">
-            <a href="https://royald.onrender.com/">
+            <Link to="/">
               <img src={footer} alt=""></img>
-            </a>
+            </Link>
           </div>
 
           <div>
             <ul className="socail">
               <li>
-                <a href="">Fb</a>
+                <a href="https://hamzaabduljalil.github.io/Hamza.por.github.io/">
+                  Fb
+                </a>
               </li>
               <li>
                 <a href="">Lg</a>
